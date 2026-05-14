@@ -40,6 +40,10 @@ A lightweight and customizable desktop hardware monitoring tool — real-time mo
 ###  🟢 网络测速功能 
 ![LiteMonitor 网速测试](./resources/screenshots/overview4.png)  👉 ![LiteMonitor 菜单](./resources/screenshots/overview5.jpg)
 
+
+###  🟢 监控历史
+![LiteMonitor 监控历史](./resources/screenshots/overview9.png)
+
 ###  🟢 历史流量统计
 ![LiteMonitor 主题编辑器](./resources/screenshots/overview7.png)
 
